@@ -1,0 +1,23 @@
+.title{
+    border-radius: 8px;
+    margin-bottom: 10px;
+    text-align:center;
+    width: 250px;
+    color:blue;
+    border: solid green 4px;
+    background-color: yellow;
+}
+input[type="button"]{
+    border-radius: 50px;
+    background-color: yellow;
+    color: blue;
+    border-color: green ;
+    width:100%;
+}
+input[type="text"]{
+    border-radius: 50px;
+    text-align: right;
+    background-color: lavenderblush;
+    border-color:green ;
+    width:93%
+}
